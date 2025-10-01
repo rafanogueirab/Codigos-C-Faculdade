@@ -45,7 +45,7 @@ int main(){
         }
     }while(opcao != 4);
 
-    printf("Fim das operacoes. \n\n");
+    printf("\nFim das operacoes. \n\n");
 
     return 0;
 }
